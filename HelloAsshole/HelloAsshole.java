@@ -2,6 +2,8 @@
 // 2016-06-17
 // 
 // Reinstalling Eclipse & JDKs for the road ahead!
+//
+// First commit on 6/18
 
 public class HelloAsshole {
 	
